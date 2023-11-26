@@ -48,6 +48,3 @@ This project successfully demonstrates the application of Convolutional Neural N
 ---
 
 **Note:** For a more detailed explanation and code implementation, refer to the Jupyter notebook or Python script in the repository. Adjust file paths and comments as needed for your project structure.
-```
-
-Please try this version and let me know if it works for you.
